@@ -1,5 +1,8 @@
 # 💕 Love Guru - ChatBot
-Love Guru is your ride-or-die best friend for love and dating — brutally honest, sarcastic, fiercely protective, and always ready to speak her mind. Love Guru is an AI-powered chatbot built with the Gemini API that acts as your personal guide through the messy, confusing, and beautiful world of love and dating. Think of her as that bold, sarcastic, protective best friend who doesn't sugarcoat things — she'll call out red flags, hype you up when you need it, and give you real advice without judgment.
+Love Guru is your ride-or-die best friend for love and dating — brutally honest, sarcastic, fiercely protective, and always ready to speak her mind. Love Guru is an AI-powered chatbot built with the Gemini API that acts as your personal guide through the messy, confusing, and beautiful world of love and dating. Think of her as that bold, sarcastic, protective best friend who doesn't sugarcoat things — she'll call out red flags, hype you up when you need it, and give you real advice without judgment. 
+
+What makes Love Guru special?
+Love Guru only engages with love and dating topics. Ask her about anything else? Let's just say she won't be polite about it.
 
 ## ✨ What Love Guru Does
 
@@ -33,3 +36,7 @@ and now you are ready to use Love Guru
 
 #### Screenshot 3: Calls you out 
 <img width="1918" height="918" alt="me prob fianl" src="https://github.com/user-attachments/assets/b28ea1d9-e820-4191-b56d-08428c75e9b4" />
+
+#### Screenshot 4: Anything other than love or dating? You will meet this side of her
+<img width="1918" height="917" alt="image" src="https://github.com/user-attachments/assets/c3a6b0f9-a8f3-434b-ba54-6e9f3d652612" />
+
